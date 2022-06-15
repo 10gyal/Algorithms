@@ -1,3 +1,5 @@
+INSTRUCTIONS:
+
 Your program should proceed as follows:  
 (1) Read all input data into memory.  
 (2) Run the randomized-select algorithm for the given input, and measure the time.  
