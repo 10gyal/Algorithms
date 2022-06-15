@@ -1,0 +1,2 @@
+Rank 604 element of input5.txt: 116372.0
+Time taken = 0.0011701583862304688

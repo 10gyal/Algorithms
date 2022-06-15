@@ -1,0 +1,2 @@
+Rank 5432 element of input32.txt: -68438.0
+Time taken = 3.4110584259033203

@@ -1,0 +1,2 @@
+Rank 400 element of input14.txt: 98.0
+Time taken = 0.0011673450469970703

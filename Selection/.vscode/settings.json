@@ -1,0 +1,8 @@
+{
+    "python.analysis.useLibraryCodeForTypes": true,
+    "python.disableInstallationCheck": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.autoComplete.extraPaths": [
+        "/usr/local/lib/python3.9/site-packages"
+    ]
+}

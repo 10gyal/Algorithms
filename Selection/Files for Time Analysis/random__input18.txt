@@ -1,0 +1,2 @@
+Rank 1268 element of input18.txt: -1469.0
+Time taken = 0.001170206069946289

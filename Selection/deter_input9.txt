@@ -1,0 +1,2 @@
+Rank 330 element of input9.txt: 18297.0
+Time taken = 0.7167961597442627

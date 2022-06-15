@@ -1,0 +1,2 @@
+Rank 1296 element of input22.txt: 848.0
+Time taken = 0.045415830612182614

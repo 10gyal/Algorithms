@@ -1,0 +1,3 @@
+CORRECT
+Time taken by main algorithm: 0.00017404556274414062 s
+Time taken by checker program: 4.482269287109375e-05 s

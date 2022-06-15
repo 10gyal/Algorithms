@@ -1,0 +1,2 @@
+Rank 6 element of dum.txt: 6.0
+Time taken = 0.00016880035400390625

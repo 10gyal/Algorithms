@@ -1,0 +1,2 @@
+Rank 19628 element of input26.txt: -5478.0
+Time taken = 0.014033317565917969

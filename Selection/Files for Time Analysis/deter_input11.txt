@@ -1,0 +1,2 @@
+Rank 9399 element of input11.txt: 30962.0
+Time taken = 4.674929618835449

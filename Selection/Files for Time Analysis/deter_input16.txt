@@ -1,0 +1,2 @@
+Rank 2598 element of input16.txt: -4363.0
+Time taken = 0.3440524101257324

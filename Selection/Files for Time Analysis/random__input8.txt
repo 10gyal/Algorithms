@@ -1,0 +1,2 @@
+Rank 5202 element of input8.txt: 348671.0
+Time taken = 0.00512843132019043

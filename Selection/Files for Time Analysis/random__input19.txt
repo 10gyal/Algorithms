@@ -1,0 +1,2 @@
+Rank 2077 element of input19.txt: -6903.0
+Time taken = 0.003849220275878906

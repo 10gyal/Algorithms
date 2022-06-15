@@ -1,0 +1,2 @@
+Rank 2 element of input.txt: 0.5
+Time taken = 0.0002148151397705078

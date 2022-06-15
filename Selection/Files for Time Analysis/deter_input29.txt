@@ -1,0 +1,2 @@
+Rank 23570 element of input29.txt: -135676.0
+Time taken = 28.7421151638031

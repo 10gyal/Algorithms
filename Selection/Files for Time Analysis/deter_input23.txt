@@ -1,0 +1,2 @@
+Rank 194 element of input23.txt: -701.0
+Time taken = 0.0048029422760009766

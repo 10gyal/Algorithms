@@ -1,0 +1,2 @@
+Rank 1723 element of input4.txt: 861992.0
+Time taken = 0.07432122230529785

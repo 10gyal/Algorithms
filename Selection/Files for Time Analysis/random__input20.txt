@@ -1,0 +1,2 @@
+Rank 32115 element of input20.txt: 83777.0
+Time taken = 0.011842775344848632

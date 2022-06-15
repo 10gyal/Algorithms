@@ -1,0 +1,2 @@
+Rank 50671 element of input33.txt: 46465.0
+Time taken = 0.0044558048248291016

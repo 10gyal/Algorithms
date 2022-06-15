@@ -1,0 +1,2 @@
+Rank 45028 element of input28.txt: 350072.0
+Time taken = 34.55593514442444

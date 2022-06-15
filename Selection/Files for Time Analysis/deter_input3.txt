@@ -1,0 +1,2 @@
+Rank 534 element of input3.txt: 536807.0
+Time taken = 0.009401655197143555

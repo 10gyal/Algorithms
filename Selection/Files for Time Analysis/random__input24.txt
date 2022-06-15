@@ -1,0 +1,2 @@
+Rank 961 element of input24.txt: 86.0
+Time taken = 0.0005353927612304687

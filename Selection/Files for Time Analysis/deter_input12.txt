@@ -1,0 +1,2 @@
+Rank 30 element of input12.txt: 199.0
+Time taken = 0.0002262592315673828

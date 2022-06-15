@@ -1,0 +1,2 @@
+Rank 9512 element of input6.txt: 949835.0
+Time taken = 0.0024779796600341796

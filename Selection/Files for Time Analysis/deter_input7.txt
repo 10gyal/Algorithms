@@ -1,0 +1,2 @@
+Rank 5570 element of input7.txt: 460974.0
+Time taken = 1.575183916091919

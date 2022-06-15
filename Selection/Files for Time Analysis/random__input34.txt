@@ -1,0 +1,2 @@
+Rank 13057 element of input34.txt: -56068.0
+Time taken = 0.0058651924133300785

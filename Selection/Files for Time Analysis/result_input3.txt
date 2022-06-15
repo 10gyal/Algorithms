@@ -1,0 +1,3 @@
+Random Selection gives <<True>> result
+Deterministic Selection gives <<True>> result
+Input size: 1000

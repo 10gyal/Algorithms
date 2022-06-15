@@ -1,0 +1,2 @@
+Rank 559 element of input21.txt: 262.0
+Time taken = 0.0006038188934326172
